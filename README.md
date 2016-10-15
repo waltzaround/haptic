@@ -1,5 +1,7 @@
-# haptic
+# Haptic
 
-hi patricia
+Prototype for a VR relaxation app built with the Google Cardboard SDK, and stock assets from Unity
 
-lets make some cool shit
+Built as part of Startup Weekend Auckland 2016
+
+Put together by Walter Lim and Patricia Tan
